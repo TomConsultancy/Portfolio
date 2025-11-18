@@ -28,7 +28,7 @@ This repository showcases a selection of my work in **Excel** and **Power BI**. 
 
 ## 🎥 Walkthrough Video
 I’ve recorded a video where I walk through each of these Excel files, explaining the approach, techniques used, and key takeaways.  
-👉 *[Video link will be added here]*
+👉 https://drive.google.com/drive/folders/1BzWdHEVgDi1bxQoMLjz6hlDvYXEMdXmP?usp=sharing
 
 ---
 
