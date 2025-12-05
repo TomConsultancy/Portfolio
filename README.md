@@ -20,16 +20,20 @@ This repository showcases a selection of my work in **Excel** and **Power BI**. 
    - Includes basic formulas, pivot tables, and clear visualizations.  
    - A more complex project involving multiple data sources and advanced functions.
   
+4. **Imaginary Business Case** – Variance & Scenario Analysis
+   - A fictional but realistic case study combining budget vs. actual analysis, scenario modeling, and management reporting.
+   - Answers to stakeholder questions are embedded directly in the workbook.
+  
 ### Power BI    
-4. **Interactive Dashboard**  
+1. **Interactive Dashboard** - continues with the dataset of N°3 Adavanced analysis  
    - Built in Power BI to visualize key metrics and trends.  
    - Uses DAX measures, relationships, and slicers for dynamic exploration.  
    - Designed to provide actionable insights in a clear, interactive format.
 
 ## 🎥 Walkthrough Video
-I’ve recorded a video where I walk through each of these files, explaining the approach, key takeaways, and usefulness of these tools and techniques.  
+I’ve recorded a video where I walk through the first three files, explaining the approach, key takeaways, and usefulness of these tools and techniques.  
 👉 https://drive.google.com/drive/folders/1BzWdHEVgDi1bxQoMLjz6hlDvYXEMdXmP?usp=sharing
 
----
+------------
 
 This portfolio is a work in progress — more projects will be added over time as I continue exploring Excel, Power BI, and other tools.
