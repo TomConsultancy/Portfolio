@@ -24,6 +24,9 @@ This repository showcases a selection of my work in **Excel** and **Power BI**. 
    - A fictional but realistic case study combining budget vs. actual analysis, scenario modeling, and management reporting.
    - Answers to stakeholder questions are embedded directly in the workbook.
   
+5. **Budget_template simple**
+   - A budget excel showing: an overview of different banks/accounts with their respective balance, a cashbook, a pivot table to examine the expenses/income
+  
 ### Power BI    
 1. **Interactive Dashboard** - continues with the dataset of N°3 Adavanced analysis  
    - Built in Power BI to visualize key metrics and trends.  
