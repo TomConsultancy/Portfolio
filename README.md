@@ -27,11 +27,12 @@ This repository showcases a selection of my work in **Excel** and **Power BI**. 
 5. **Budget_template simple**
    - A budget excel showing: an overview of different banks/accounts with their respective balance, a cashbook, a pivot table to examine the expenses/income
   
-### ETL proces (focus on Power BI) 
-1. In this proces I picked a few financial products to visualize and analyze.
-2. I used python to extract several product via an API call to Yahoo finance.
-3. I performed various transformations to this data and saved this in SQL.
-4. Afterwards I connected my Powerbi to this SQL database and visualized the data. 
+### Power BI 
+1. ETL process with PowerBI (name: Visualization_financial instruments)
+   - In this proces I picked a few financial products to visualize and analyze.
+   - I used python to extract several product via an API call to Yahoo finance.
+   - I performed various transformations to this data and saved this in SQL.
+   - Afterwards I connected my Powerbi to this SQL database and visualized the data. 
 
 ## 🎥 Walkthrough Video
 I’ve recorded a video where I walk through the first three files, explaining the approach, key takeaways, and usefulness of these tools and techniques.  
